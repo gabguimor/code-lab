@@ -1,2 +1,2 @@
 # code-lab
-Code-lab trials
+Desafios code-lab para treinar HTML, CSS e JS
